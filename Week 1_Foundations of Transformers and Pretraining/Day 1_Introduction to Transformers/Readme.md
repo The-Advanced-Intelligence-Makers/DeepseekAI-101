@@ -2,7 +2,7 @@
 
 Topics to be covered
 
-- [ ] Self-attention mechanism.
+- [X] Self-attention mechanism.
 - [ ] Multi-head attention.
 - [ ] Positional encoding.
 
